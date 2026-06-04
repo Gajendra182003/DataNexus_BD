@@ -1,0 +1,801 @@
+company_name,ticker,sector,total_esg_risk_score,environmental_risk,social_risk,governance_risk,controversy_score,last_processing_date
+NVIDIA Corporation,NVDA,Semiconductors,21.2,7.1,6.89,8.95,3,2016-06-30
+NVIDIA Corporation,NVDA,Semiconductors,25.26,8.33,6.1,6.34,1,2016-09-30
+NVIDIA Corporation,NVDA,Semiconductors,21.11,6.76,8.57,8.14,1,2016-12-31
+NVIDIA Corporation,NVDA,Semiconductors,23.1,9.43,9.0,6.6,2,2017-03-31
+NVIDIA Corporation,NVDA,Semiconductors,22.17,9.8,7.32,6.35,1,2017-06-30
+NVIDIA Corporation,NVDA,Semiconductors,23.64,7.02,6.14,7.8,1,2017-09-30
+NVIDIA Corporation,NVDA,Semiconductors,23.14,7.9,9.05,8.16,2,2017-12-31
+NVIDIA Corporation,NVDA,Semiconductors,26.17,6.02,6.77,6.99,1,2018-03-31
+NVIDIA Corporation,NVDA,Semiconductors,26.94,7.17,7.52,8.99,1,2018-06-30
+NVIDIA Corporation,NVDA,Semiconductors,22.45,6.99,9.68,8.51,3,2018-09-30
+NVIDIA Corporation,NVDA,Semiconductors,24.48,6.7,7.61,6.8,3,2018-12-31
+NVIDIA Corporation,NVDA,Semiconductors,21.77,6.95,8.78,5.88,1,2019-03-31
+NVIDIA Corporation,NVDA,Semiconductors,22.84,5.79,9.24,7.79,3,2019-06-30
+NVIDIA Corporation,NVDA,Semiconductors,26.07,7.52,9.61,7.78,2,2019-09-30
+NVIDIA Corporation,NVDA,Semiconductors,27.28,8.27,9.08,7.82,3,2019-12-31
+NVIDIA Corporation,NVDA,Semiconductors,22.29,9.83,7.9,6.2,1,2020-03-31
+NVIDIA Corporation,NVDA,Semiconductors,20.22,5.94,8.12,7.68,2,2020-06-30
+NVIDIA Corporation,NVDA,Semiconductors,28.51,7.96,9.75,9.28,1,2020-09-30
+NVIDIA Corporation,NVDA,Semiconductors,20.33,8.98,8.53,8.52,2,2020-12-31
+NVIDIA Corporation,NVDA,Semiconductors,25.02,8.0,9.98,9.69,2,2021-03-31
+NVIDIA Corporation,NVDA,Semiconductors,24.13,6.99,5.54,7.46,3,2021-06-30
+NVIDIA Corporation,NVDA,Semiconductors,21.48,7.11,6.31,9.43,3,2021-09-30
+NVIDIA Corporation,NVDA,Semiconductors,22.77,6.9,5.54,6.4,2,2021-12-31
+NVIDIA Corporation,NVDA,Semiconductors,22.98,8.29,6.33,8.95,1,2022-03-31
+NVIDIA Corporation,NVDA,Semiconductors,21.68,5.25,7.56,8.53,1,2022-06-30
+NVIDIA Corporation,NVDA,Semiconductors,27.9,7.67,6.82,8.13,3,2022-09-30
+NVIDIA Corporation,NVDA,Semiconductors,24.36,6.77,7.98,6.67,3,2022-12-31
+NVIDIA Corporation,NVDA,Semiconductors,21.87,5.87,5.75,7.83,3,2023-03-31
+NVIDIA Corporation,NVDA,Semiconductors,21.74,8.58,6.97,9.68,2,2023-06-30
+NVIDIA Corporation,NVDA,Semiconductors,23.97,9.05,7.18,6.9,3,2023-09-30
+NVIDIA Corporation,NVDA,Semiconductors,20.94,7.19,7.03,5.67,3,2023-12-31
+NVIDIA Corporation,NVDA,Semiconductors,23.24,7.47,8.57,8.29,3,2024-03-31
+NVIDIA Corporation,NVDA,Semiconductors,25.22,7.71,9.75,7.34,1,2024-06-30
+NVIDIA Corporation,NVDA,Semiconductors,20.18,6.06,7.27,8.82,1,2024-09-30
+NVIDIA Corporation,NVDA,Semiconductors,26.54,7.73,5.8,9.53,1,2024-12-31
+NVIDIA Corporation,NVDA,Semiconductors,23.25,7.59,5.12,6.14,1,2025-03-31
+NVIDIA Corporation,NVDA,Semiconductors,23.68,5.07,5.0,5.97,2,2025-06-30
+NVIDIA Corporation,NVDA,Semiconductors,26.31,8.83,9.05,8.55,2,2025-09-30
+NVIDIA Corporation,NVDA,Semiconductors,24.12,10.13,8.54,8.43,3,2025-12-31
+NVIDIA Corporation,NVDA,Semiconductors,20.89,7.73,9.52,7.95,1,2026-03-31
+Advanced Micro Devices,AMD,Semiconductors,21.64,6.74,8.38,8.7,1,2016-06-30
+Advanced Micro Devices,AMD,Semiconductors,28.5,8.27,8.31,6.15,1,2016-09-30
+Advanced Micro Devices,AMD,Semiconductors,25.6,8.07,9.72,6.79,3,2016-12-31
+Advanced Micro Devices,AMD,Semiconductors,23.09,6.51,8.57,7.82,1,2017-03-31
+Advanced Micro Devices,AMD,Semiconductors,26.17,8.32,6.46,8.22,3,2017-06-30
+Advanced Micro Devices,AMD,Semiconductors,28.45,9.52,9.51,7.47,1,2017-09-30
+Advanced Micro Devices,AMD,Semiconductors,25.11,7.13,9.87,9.15,3,2017-12-31
+Advanced Micro Devices,AMD,Semiconductors,27.88,7.32,8.76,9.88,1,2018-03-31
+Advanced Micro Devices,AMD,Semiconductors,28.09,8.96,6.61,7.12,1,2018-06-30
+Advanced Micro Devices,AMD,Semiconductors,21.77,8.23,6.8,7.65,1,2018-09-30
+Advanced Micro Devices,AMD,Semiconductors,24.71,7.22,6.11,9.2,3,2018-12-31
+Advanced Micro Devices,AMD,Semiconductors,20.65,7.19,8.33,7.67,1,2019-03-31
+Advanced Micro Devices,AMD,Semiconductors,28.49,9.77,8.31,9.49,3,2019-06-30
+Advanced Micro Devices,AMD,Semiconductors,23.63,5.88,7.22,9.45,1,2019-09-30
+Advanced Micro Devices,AMD,Semiconductors,20.82,6.35,5.85,8.47,2,2019-12-31
+Advanced Micro Devices,AMD,Semiconductors,24.77,8.92,6.28,5.87,1,2020-03-31
+Advanced Micro Devices,AMD,Semiconductors,19.13,8.22,6.71,9.0,3,2020-06-30
+Advanced Micro Devices,AMD,Semiconductors,25.34,6.32,8.51,5.68,1,2020-09-30
+Advanced Micro Devices,AMD,Semiconductors,20.53,8.48,7.17,6.43,1,2020-12-31
+Advanced Micro Devices,AMD,Semiconductors,26.39,7.63,7.15,6.31,2,2021-03-31
+Advanced Micro Devices,AMD,Semiconductors,24.66,8.57,9.25,7.18,1,2021-06-30
+Advanced Micro Devices,AMD,Semiconductors,29.34,6.92,10.02,7.26,1,2021-09-30
+Advanced Micro Devices,AMD,Semiconductors,22.2,8.6,7.28,9.39,1,2021-12-31
+Advanced Micro Devices,AMD,Semiconductors,24.97,6.8,8.64,5.78,3,2022-03-31
+Advanced Micro Devices,AMD,Semiconductors,26.37,8.2,6.14,6.97,3,2022-06-30
+Advanced Micro Devices,AMD,Semiconductors,22.54,7.45,5.47,8.4,3,2022-09-30
+Advanced Micro Devices,AMD,Semiconductors,23.95,7.5,7.09,6.4,2,2022-12-31
+Advanced Micro Devices,AMD,Semiconductors,21.74,8.19,6.01,7.47,2,2023-03-31
+Advanced Micro Devices,AMD,Semiconductors,19.29,6.55,7.21,7.72,3,2023-06-30
+Advanced Micro Devices,AMD,Semiconductors,24.1,8.55,7.92,9.02,3,2023-09-30
+Advanced Micro Devices,AMD,Semiconductors,22.17,8.23,8.68,7.51,1,2023-12-31
+Advanced Micro Devices,AMD,Semiconductors,20.11,5.86,5.29,6.04,2,2024-03-31
+Advanced Micro Devices,AMD,Semiconductors,24.78,6.99,8.83,7.47,3,2024-06-30
+Advanced Micro Devices,AMD,Semiconductors,21.93,5.92,7.72,5.0,1,2024-09-30
+Advanced Micro Devices,AMD,Semiconductors,19.06,7.93,7.68,6.57,3,2024-12-31
+Advanced Micro Devices,AMD,Semiconductors,27.79,7.83,9.21,8.67,3,2025-03-31
+Advanced Micro Devices,AMD,Semiconductors,26.05,8.67,7.69,7.98,3,2025-06-30
+Advanced Micro Devices,AMD,Semiconductors,26.91,7.31,6.23,8.98,2,2025-09-30
+Advanced Micro Devices,AMD,Semiconductors,22.91,8.53,9.04,8.06,3,2025-12-31
+Advanced Micro Devices,AMD,Semiconductors,24.61,8.88,6.96,7.37,3,2026-03-31
+Intel Corporation,INTC,Semiconductors,22.21,7.53,6.61,6.86,2,2016-06-30
+Intel Corporation,INTC,Semiconductors,25.31,7.65,6.82,7.67,3,2016-09-30
+Intel Corporation,INTC,Semiconductors,20.87,9.42,8.22,7.81,2,2016-12-31
+Intel Corporation,INTC,Semiconductors,24.09,9.56,9.33,8.14,3,2017-03-31
+Intel Corporation,INTC,Semiconductors,25.58,6.8,6.8,7.66,1,2017-06-30
+Intel Corporation,INTC,Semiconductors,26.21,9.14,8.85,9.31,1,2017-09-30
+Intel Corporation,INTC,Semiconductors,24.37,9.31,8.1,8.34,1,2017-12-31
+Intel Corporation,INTC,Semiconductors,21.52,7.65,6.03,7.32,1,2018-03-31
+Intel Corporation,INTC,Semiconductors,23.36,9.4,7.01,9.69,2,2018-06-30
+Intel Corporation,INTC,Semiconductors,21.65,6.08,8.16,10.0,2,2018-09-30
+Intel Corporation,INTC,Semiconductors,21.6,9.85,6.18,6.14,1,2018-12-31
+Intel Corporation,INTC,Semiconductors,21.28,6.65,6.54,8.72,3,2019-03-31
+Intel Corporation,INTC,Semiconductors,23.0,6.42,6.96,7.82,3,2019-06-30
+Intel Corporation,INTC,Semiconductors,25.97,6.22,6.87,7.88,2,2019-09-30
+Intel Corporation,INTC,Semiconductors,27.33,7.17,9.49,6.47,3,2019-12-31
+Intel Corporation,INTC,Semiconductors,24.66,5.93,8.68,8.93,3,2020-03-31
+Intel Corporation,INTC,Semiconductors,25.55,7.63,5.62,7.49,3,2020-06-30
+Intel Corporation,INTC,Semiconductors,24.63,7.22,9.27,9.14,1,2020-09-30
+Intel Corporation,INTC,Semiconductors,23.22,9.33,7.64,6.37,1,2020-12-31
+Intel Corporation,INTC,Semiconductors,26.84,6.42,8.67,7.49,2,2021-03-31
+Intel Corporation,INTC,Semiconductors,26.72,8.06,7.02,6.67,1,2021-06-30
+Intel Corporation,INTC,Semiconductors,24.48,8.96,8.24,8.63,2,2021-09-30
+Intel Corporation,INTC,Semiconductors,28.81,7.08,7.15,9.54,2,2021-12-31
+Intel Corporation,INTC,Semiconductors,25.63,9.47,8.18,8.02,1,2022-03-31
+Intel Corporation,INTC,Semiconductors,27.57,8.24,9.28,9.05,3,2022-06-30
+Intel Corporation,INTC,Semiconductors,22.22,5.24,6.47,6.79,1,2022-09-30
+Intel Corporation,INTC,Semiconductors,25.35,7.79,8.03,7.6,3,2022-12-31
+Intel Corporation,INTC,Semiconductors,22.15,7.23,6.73,6.34,3,2023-03-31
+Intel Corporation,INTC,Semiconductors,22.29,8.26,9.15,6.86,1,2023-06-30
+Intel Corporation,INTC,Semiconductors,20.31,7.34,8.17,7.37,1,2023-09-30
+Intel Corporation,INTC,Semiconductors,19.78,6.19,6.13,7.58,1,2023-12-31
+Intel Corporation,INTC,Semiconductors,28.64,8.16,8.74,6.45,2,2024-03-31
+Intel Corporation,INTC,Semiconductors,22.07,7.48,8.21,7.7,1,2024-06-30
+Intel Corporation,INTC,Semiconductors,27.88,6.45,6.26,7.96,3,2024-09-30
+Intel Corporation,INTC,Semiconductors,18.78,5.67,7.46,6.29,1,2024-12-31
+Intel Corporation,INTC,Semiconductors,28.06,8.76,9.45,7.23,3,2025-03-31
+Intel Corporation,INTC,Semiconductors,27.31,6.85,8.07,7.38,3,2025-06-30
+Intel Corporation,INTC,Semiconductors,23.06,7.97,8.95,5.85,1,2025-09-30
+Intel Corporation,INTC,Semiconductors,21.54,6.92,8.17,6.59,2,2025-12-31
+Intel Corporation,INTC,Semiconductors,24.15,6.6,6.44,8.27,3,2026-03-31
+Qualcomm Inc,QCOM,Technology,21.57,6.93,7.06,9.16,3,2016-06-30
+Qualcomm Inc,QCOM,Technology,28.38,7.67,8.15,8.56,2,2016-09-30
+Qualcomm Inc,QCOM,Technology,21.33,6.58,7.16,8.91,3,2016-12-31
+Qualcomm Inc,QCOM,Technology,24.1,7.73,7.09,7.47,2,2017-03-31
+Qualcomm Inc,QCOM,Technology,24.74,6.25,6.1,7.66,2,2017-06-30
+Qualcomm Inc,QCOM,Technology,20.84,6.79,8.59,9.31,3,2017-09-30
+Qualcomm Inc,QCOM,Technology,28.13,8.39,6.82,5.86,1,2017-12-31
+Qualcomm Inc,QCOM,Technology,25.9,9.55,6.63,8.23,3,2018-03-31
+Qualcomm Inc,QCOM,Technology,27.83,7.56,7.36,6.96,1,2018-06-30
+Qualcomm Inc,QCOM,Technology,22.52,8.38,6.82,9.39,3,2018-09-30
+Qualcomm Inc,QCOM,Technology,22.14,7.16,6.6,9.24,3,2018-12-31
+Qualcomm Inc,QCOM,Technology,19.71,9.02,7.46,5.76,3,2019-03-31
+Qualcomm Inc,QCOM,Technology,26.78,8.41,8.96,6.72,3,2019-06-30
+Qualcomm Inc,QCOM,Technology,23.62,9.63,8.03,6.23,3,2019-09-30
+Qualcomm Inc,QCOM,Technology,21.88,6.27,7.89,7.85,1,2019-12-31
+Qualcomm Inc,QCOM,Technology,27.81,6.48,9.81,8.62,1,2020-03-31
+Qualcomm Inc,QCOM,Technology,25.92,7.75,6.85,9.05,2,2020-06-30
+Qualcomm Inc,QCOM,Technology,25.43,7.54,9.69,8.04,1,2020-09-30
+Qualcomm Inc,QCOM,Technology,20.94,8.37,6.98,8.94,3,2020-12-31
+Qualcomm Inc,QCOM,Technology,20.95,8.88,9.33,8.3,3,2021-03-31
+Qualcomm Inc,QCOM,Technology,21.21,7.81,7.09,7.86,3,2021-06-30
+Qualcomm Inc,QCOM,Technology,27.91,9.29,9.76,6.76,2,2021-09-30
+Qualcomm Inc,QCOM,Technology,27.28,6.2,9.0,8.85,2,2021-12-31
+Qualcomm Inc,QCOM,Technology,25.67,9.06,9.73,7.76,1,2022-03-31
+Qualcomm Inc,QCOM,Technology,29.33,7.54,6.58,9.59,1,2022-06-30
+Qualcomm Inc,QCOM,Technology,23.24,8.39,7.22,8.12,1,2022-09-30
+Qualcomm Inc,QCOM,Technology,28.19,7.39,8.77,7.92,1,2022-12-31
+Qualcomm Inc,QCOM,Technology,24.49,8.27,6.52,6.1,3,2023-03-31
+Qualcomm Inc,QCOM,Technology,21.24,6.88,7.37,5.66,3,2023-06-30
+Qualcomm Inc,QCOM,Technology,24.99,7.59,6.54,5.0,3,2023-09-30
+Qualcomm Inc,QCOM,Technology,19.01,5.69,6.36,5.14,2,2023-12-31
+Qualcomm Inc,QCOM,Technology,19.87,6.28,5.54,6.91,3,2024-03-31
+Qualcomm Inc,QCOM,Technology,19.61,5.71,7.59,6.54,3,2024-06-30
+Qualcomm Inc,QCOM,Technology,28.36,6.59,7.86,7.04,2,2024-09-30
+Qualcomm Inc,QCOM,Technology,25.28,6.84,6.28,7.17,1,2024-12-31
+Qualcomm Inc,QCOM,Technology,22.39,7.87,8.14,7.22,2,2025-03-31
+Qualcomm Inc,QCOM,Technology,21.89,9.46,8.96,5.89,2,2025-06-30
+Qualcomm Inc,QCOM,Technology,23.15,9.12,6.45,9.06,3,2025-09-30
+Qualcomm Inc,QCOM,Technology,19.93,9.06,8.77,9.5,3,2025-12-31
+Qualcomm Inc,QCOM,Technology,23.7,8.23,7.91,5.53,2,2026-03-31
+Taiwan Semiconductor,TSM,Semiconductors,22.52,7.0,9.02,9.07,3,2016-06-30
+Taiwan Semiconductor,TSM,Semiconductors,25.9,9.57,8.55,7.19,2,2016-09-30
+Taiwan Semiconductor,TSM,Semiconductors,24.01,6.56,9.67,7.34,2,2016-12-31
+Taiwan Semiconductor,TSM,Semiconductors,22.1,8.17,9.9,8.14,2,2017-03-31
+Taiwan Semiconductor,TSM,Semiconductors,22.58,9.13,7.78,9.06,3,2017-06-30
+Taiwan Semiconductor,TSM,Semiconductors,26.8,7.65,6.11,8.79,1,2017-09-30
+Taiwan Semiconductor,TSM,Semiconductors,26.04,9.66,9.64,8.95,2,2017-12-31
+Taiwan Semiconductor,TSM,Semiconductors,24.39,7.14,6.56,7.55,3,2018-03-31
+Taiwan Semiconductor,TSM,Semiconductors,24.98,9.05,9.55,6.19,1,2018-06-30
+Taiwan Semiconductor,TSM,Semiconductors,25.55,9.63,7.19,8.3,3,2018-09-30
+Taiwan Semiconductor,TSM,Semiconductors,27.97,9.77,7.32,7.77,1,2018-12-31
+Taiwan Semiconductor,TSM,Semiconductors,21.76,10.15,6.6,7.1,3,2019-03-31
+Taiwan Semiconductor,TSM,Semiconductors,24.91,8.78,9.06,9.88,2,2019-06-30
+Taiwan Semiconductor,TSM,Semiconductors,25.91,9.23,8.35,9.02,3,2019-09-30
+Taiwan Semiconductor,TSM,Semiconductors,28.16,5.97,7.35,7.61,1,2019-12-31
+Taiwan Semiconductor,TSM,Semiconductors,19.93,8.09,7.62,9.26,2,2020-03-31
+Taiwan Semiconductor,TSM,Semiconductors,23.83,10.09,9.98,9.51,1,2020-06-30
+Taiwan Semiconductor,TSM,Semiconductors,24.69,7.88,5.65,8.64,1,2020-09-30
+Taiwan Semiconductor,TSM,Semiconductors,24.57,5.87,8.5,7.26,3,2020-12-31
+Taiwan Semiconductor,TSM,Semiconductors,28.09,7.36,6.63,9.65,1,2021-03-31
+Taiwan Semiconductor,TSM,Semiconductors,28.76,9.91,8.13,9.15,1,2021-06-30
+Taiwan Semiconductor,TSM,Semiconductors,19.44,5.44,8.63,6.33,2,2021-09-30
+Taiwan Semiconductor,TSM,Semiconductors,24.18,6.88,8.0,6.82,1,2021-12-31
+Taiwan Semiconductor,TSM,Semiconductors,26.16,7.68,6.12,7.64,3,2022-03-31
+Taiwan Semiconductor,TSM,Semiconductors,28.28,9.82,8.39,8.19,1,2022-06-30
+Taiwan Semiconductor,TSM,Semiconductors,25.8,7.95,9.04,8.3,2,2022-09-30
+Taiwan Semiconductor,TSM,Semiconductors,22.59,8.76,6.55,7.43,3,2022-12-31
+Taiwan Semiconductor,TSM,Semiconductors,24.84,6.87,7.83,6.53,3,2023-03-31
+Taiwan Semiconductor,TSM,Semiconductors,19.75,8.09,8.8,7.89,3,2023-06-30
+Taiwan Semiconductor,TSM,Semiconductors,19.92,6.83,6.07,6.38,2,2023-09-30
+Taiwan Semiconductor,TSM,Semiconductors,25.92,6.93,6.98,6.7,1,2023-12-31
+Taiwan Semiconductor,TSM,Semiconductors,22.02,5.39,5.51,6.76,3,2024-03-31
+Taiwan Semiconductor,TSM,Semiconductors,24.29,7.1,7.38,7.12,2,2024-06-30
+Taiwan Semiconductor,TSM,Semiconductors,21.44,8.5,8.91,6.7,3,2024-09-30
+Taiwan Semiconductor,TSM,Semiconductors,24.69,7.73,6.83,8.51,1,2024-12-31
+Taiwan Semiconductor,TSM,Semiconductors,19.87,5.41,8.51,6.45,2,2025-03-31
+Taiwan Semiconductor,TSM,Semiconductors,25.06,8.54,9.18,8.44,3,2025-06-30
+Taiwan Semiconductor,TSM,Semiconductors,22.23,7.31,7.66,7.64,1,2025-09-30
+Taiwan Semiconductor,TSM,Semiconductors,27.16,7.43,7.52,6.21,1,2025-12-31
+Taiwan Semiconductor,TSM,Semiconductors,21.68,5.68,7.77,5.24,3,2026-03-31
+Broadcom Inc,AVGO,Semiconductors,24.01,7.81,6.63,7.25,2,2016-06-30
+Broadcom Inc,AVGO,Semiconductors,25.43,6.3,6.18,6.59,3,2016-09-30
+Broadcom Inc,AVGO,Semiconductors,21.74,7.8,7.72,8.46,2,2016-12-31
+Broadcom Inc,AVGO,Semiconductors,27.03,6.45,7.72,7.13,3,2017-03-31
+Broadcom Inc,AVGO,Semiconductors,24.93,7.14,6.8,9.84,1,2017-06-30
+Broadcom Inc,AVGO,Semiconductors,23.66,6.93,6.62,7.11,2,2017-09-30
+Broadcom Inc,AVGO,Semiconductors,25.14,7.78,6.56,8.19,1,2017-12-31
+Broadcom Inc,AVGO,Semiconductors,27.31,9.1,6.18,9.32,1,2018-03-31
+Broadcom Inc,AVGO,Semiconductors,24.37,6.2,7.16,7.61,2,2018-06-30
+Broadcom Inc,AVGO,Semiconductors,23.49,6.16,5.83,7.0,3,2018-09-30
+Broadcom Inc,AVGO,Semiconductors,26.09,7.3,7.62,6.27,2,2018-12-31
+Broadcom Inc,AVGO,Semiconductors,24.43,7.32,7.01,7.09,2,2019-03-31
+Broadcom Inc,AVGO,Semiconductors,20.31,8.08,7.73,6.32,2,2019-06-30
+Broadcom Inc,AVGO,Semiconductors,28.4,8.49,6.51,6.32,2,2019-09-30
+Broadcom Inc,AVGO,Semiconductors,25.97,9.09,8.67,6.76,3,2019-12-31
+Broadcom Inc,AVGO,Semiconductors,26.28,8.78,7.57,9.43,3,2020-03-31
+Broadcom Inc,AVGO,Semiconductors,27.6,6.84,9.5,6.81,2,2020-06-30
+Broadcom Inc,AVGO,Semiconductors,25.17,7.43,7.29,6.45,3,2020-09-30
+Broadcom Inc,AVGO,Semiconductors,25.34,6.38,7.67,7.38,3,2020-12-31
+Broadcom Inc,AVGO,Semiconductors,25.45,7.62,7.31,7.01,3,2021-03-31
+Broadcom Inc,AVGO,Semiconductors,24.02,5.15,8.77,7.28,1,2021-06-30
+Broadcom Inc,AVGO,Semiconductors,24.5,6.5,6.16,6.31,2,2021-09-30
+Broadcom Inc,AVGO,Semiconductors,18.37,7.43,5.16,7.67,2,2021-12-31
+Broadcom Inc,AVGO,Semiconductors,24.59,7.0,9.28,7.1,2,2022-03-31
+Broadcom Inc,AVGO,Semiconductors,19.31,7.78,6.71,6.58,3,2022-06-30
+Broadcom Inc,AVGO,Semiconductors,21.08,8.13,7.97,8.86,1,2022-09-30
+Broadcom Inc,AVGO,Semiconductors,25.22,6.41,7.27,9.72,3,2022-12-31
+Broadcom Inc,AVGO,Semiconductors,19.75,8.04,5.65,7.44,3,2023-03-31
+Broadcom Inc,AVGO,Semiconductors,24.4,7.59,8.38,7.87,3,2023-06-30
+Broadcom Inc,AVGO,Semiconductors,17.81,7.3,6.85,5.0,2,2023-09-30
+Broadcom Inc,AVGO,Semiconductors,23.14,9.94,8.07,7.06,1,2023-12-31
+Broadcom Inc,AVGO,Semiconductors,23.97,9.36,8.21,8.37,3,2024-03-31
+Broadcom Inc,AVGO,Semiconductors,17.14,5.89,7.82,5.07,2,2024-06-30
+Broadcom Inc,AVGO,Semiconductors,23.1,9.0,8.69,9.84,3,2024-09-30
+Broadcom Inc,AVGO,Semiconductors,22.98,8.25,6.56,7.32,2,2024-12-31
+Broadcom Inc,AVGO,Semiconductors,23.66,5.67,5.87,8.6,2,2025-03-31
+Broadcom Inc,AVGO,Semiconductors,17.72,7.02,6.83,6.07,2,2025-06-30
+Broadcom Inc,AVGO,Semiconductors,21.01,6.27,5.45,5.4,3,2025-09-30
+Broadcom Inc,AVGO,Semiconductors,23.87,8.87,9.76,8.52,1,2025-12-31
+Broadcom Inc,AVGO,Semiconductors,21.44,5.21,5.23,5.35,2,2026-03-31
+Micron Technology,MU,Semiconductors,22.18,7.75,9.79,6.89,2,2016-06-30
+Micron Technology,MU,Semiconductors,28.31,7.61,7.55,7.45,2,2016-09-30
+Micron Technology,MU,Semiconductors,23.69,6.01,9.63,9.25,3,2016-12-31
+Micron Technology,MU,Semiconductors,22.12,6.13,9.65,7.87,1,2017-03-31
+Micron Technology,MU,Semiconductors,24.34,8.32,9.5,5.93,1,2017-06-30
+Micron Technology,MU,Semiconductors,24.79,8.7,7.93,6.23,2,2017-09-30
+Micron Technology,MU,Semiconductors,21.99,6.96,8.56,8.5,1,2017-12-31
+Micron Technology,MU,Semiconductors,28.44,8.46,6.13,8.13,1,2018-03-31
+Micron Technology,MU,Semiconductors,22.56,5.74,7.18,8.01,1,2018-06-30
+Micron Technology,MU,Semiconductors,20.92,9.63,6.04,7.84,3,2018-09-30
+Micron Technology,MU,Semiconductors,23.96,5.7,9.16,5.79,2,2018-12-31
+Micron Technology,MU,Semiconductors,21.38,5.49,8.66,6.8,3,2019-03-31
+Micron Technology,MU,Semiconductors,20.83,7.98,8.73,6.18,2,2019-06-30
+Micron Technology,MU,Semiconductors,26.72,6.42,8.88,7.58,3,2019-09-30
+Micron Technology,MU,Semiconductors,21.8,6.31,8.67,9.54,1,2019-12-31
+Micron Technology,MU,Semiconductors,21.22,6.75,6.13,9.69,3,2020-03-31
+Micron Technology,MU,Semiconductors,27.04,7.72,6.0,8.42,2,2020-06-30
+Micron Technology,MU,Semiconductors,26.87,9.33,7.22,6.37,2,2020-09-30
+Micron Technology,MU,Semiconductors,23.51,7.52,9.62,7.11,1,2020-12-31
+Micron Technology,MU,Semiconductors,24.02,9.36,7.79,8.87,3,2021-03-31
+Micron Technology,MU,Semiconductors,23.73,9.73,6.51,6.92,1,2021-06-30
+Micron Technology,MU,Semiconductors,27.02,7.48,8.63,7.96,3,2021-09-30
+Micron Technology,MU,Semiconductors,23.7,8.6,9.38,8.15,2,2021-12-31
+Micron Technology,MU,Semiconductors,28.72,9.75,6.27,8.51,2,2022-03-31
+Micron Technology,MU,Semiconductors,25.7,6.19,5.74,8.94,3,2022-06-30
+Micron Technology,MU,Semiconductors,18.55,5.32,8.3,6.51,2,2022-09-30
+Micron Technology,MU,Semiconductors,17.53,5.31,6.68,6.18,2,2022-12-31
+Micron Technology,MU,Semiconductors,22.75,7.12,6.74,7.6,1,2023-03-31
+Micron Technology,MU,Semiconductors,17.13,5.32,6.85,8.23,1,2023-06-30
+Micron Technology,MU,Semiconductors,23.01,7.76,9.96,7.12,2,2023-09-30
+Micron Technology,MU,Semiconductors,22.39,6.4,6.78,8.96,1,2023-12-31
+Micron Technology,MU,Semiconductors,25.18,8.7,7.6,7.59,3,2024-03-31
+Micron Technology,MU,Semiconductors,26.21,8.73,8.27,9.04,3,2024-06-30
+Micron Technology,MU,Semiconductors,24.41,7.08,10.09,9.35,1,2024-09-30
+Micron Technology,MU,Semiconductors,17.44,6.9,6.34,7.89,3,2024-12-31
+Micron Technology,MU,Semiconductors,28.94,6.57,7.85,9.17,2,2025-03-31
+Micron Technology,MU,Semiconductors,25.12,8.58,5.68,9.18,3,2025-06-30
+Micron Technology,MU,Semiconductors,26.06,8.54,6.91,9.78,3,2025-09-30
+Micron Technology,MU,Semiconductors,19.42,8.8,6.82,8.58,1,2025-12-31
+Micron Technology,MU,Semiconductors,20.49,5.59,5.25,8.11,1,2026-03-31
+Texas Instruments,TXN,Semiconductors,28.53,9.58,9.38,7.0,3,2016-06-30
+Texas Instruments,TXN,Semiconductors,23.05,8.45,8.41,6.32,3,2016-09-30
+Texas Instruments,TXN,Semiconductors,28.57,6.63,8.65,8.89,3,2016-12-31
+Texas Instruments,TXN,Semiconductors,28.34,6.15,9.44,6.31,3,2017-03-31
+Texas Instruments,TXN,Semiconductors,22.69,6.69,8.16,8.32,1,2017-06-30
+Texas Instruments,TXN,Semiconductors,25.76,7.07,9.75,7.84,3,2017-09-30
+Texas Instruments,TXN,Semiconductors,24.44,8.69,6.57,7.6,2,2017-12-31
+Texas Instruments,TXN,Semiconductors,25.92,7.27,8.89,8.96,2,2018-03-31
+Texas Instruments,TXN,Semiconductors,20.86,7.07,7.89,6.86,2,2018-06-30
+Texas Instruments,TXN,Semiconductors,24.83,6.65,6.27,9.86,3,2018-09-30
+Texas Instruments,TXN,Semiconductors,28.36,9.49,9.15,9.61,3,2018-12-31
+Texas Instruments,TXN,Semiconductors,26.96,7.94,8.02,7.95,2,2019-03-31
+Texas Instruments,TXN,Semiconductors,21.11,7.36,7.65,6.75,3,2019-06-30
+Texas Instruments,TXN,Semiconductors,21.13,7.88,9.45,8.52,2,2019-09-30
+Texas Instruments,TXN,Semiconductors,20.96,6.39,6.5,7.02,2,2019-12-31
+Texas Instruments,TXN,Semiconductors,22.35,7.05,7.81,6.23,3,2020-03-31
+Texas Instruments,TXN,Semiconductors,23.96,7.76,8.16,9.26,3,2020-06-30
+Texas Instruments,TXN,Semiconductors,20.45,9.37,7.13,8.65,2,2020-09-30
+Texas Instruments,TXN,Semiconductors,22.79,6.18,8.07,7.21,1,2020-12-31
+Texas Instruments,TXN,Semiconductors,22.89,7.61,8.13,8.11,3,2021-03-31
+Texas Instruments,TXN,Semiconductors,19.48,8.8,6.48,6.65,3,2021-06-30
+Texas Instruments,TXN,Semiconductors,21.29,6.61,8.68,7.39,3,2021-09-30
+Texas Instruments,TXN,Semiconductors,23.39,5.57,6.9,5.94,2,2021-12-31
+Texas Instruments,TXN,Semiconductors,25.8,8.35,8.28,5.56,2,2022-03-31
+Texas Instruments,TXN,Semiconductors,26.17,9.86,8.29,6.88,1,2022-06-30
+Texas Instruments,TXN,Semiconductors,20.65,7.92,7.97,8.77,1,2022-09-30
+Texas Instruments,TXN,Semiconductors,19.89,7.22,7.89,5.7,2,2022-12-31
+Texas Instruments,TXN,Semiconductors,21.86,8.64,7.54,8.98,2,2023-03-31
+Texas Instruments,TXN,Semiconductors,23.31,5.0,5.48,5.58,2,2023-06-30
+Texas Instruments,TXN,Semiconductors,20.38,5.95,8.49,6.28,3,2023-09-30
+Texas Instruments,TXN,Semiconductors,23.27,8.89,8.71,8.37,3,2023-12-31
+Texas Instruments,TXN,Semiconductors,24.78,9.8,7.09,7.16,2,2024-03-31
+Texas Instruments,TXN,Semiconductors,23.22,7.56,6.93,6.72,3,2024-06-30
+Texas Instruments,TXN,Semiconductors,22.73,5.47,5.1,7.09,2,2024-09-30
+Texas Instruments,TXN,Semiconductors,19.65,5.8,7.74,5.01,1,2024-12-31
+Texas Instruments,TXN,Semiconductors,26.44,7.29,7.69,6.93,2,2025-03-31
+Texas Instruments,TXN,Semiconductors,27.89,7.18,8.33,7.18,1,2025-06-30
+Texas Instruments,TXN,Semiconductors,22.92,6.0,7.85,7.15,3,2025-09-30
+Texas Instruments,TXN,Semiconductors,21.94,7.37,7.93,8.77,1,2025-12-31
+Texas Instruments,TXN,Semiconductors,27.36,10.4,8.22,10.43,2,2026-03-31
+Applied Materials,AMAT,Semiconductor Equipment,22.6,9.86,7.28,8.58,1,2016-06-30
+Applied Materials,AMAT,Semiconductor Equipment,22.77,8.93,9.38,6.12,1,2016-09-30
+Applied Materials,AMAT,Semiconductor Equipment,27.63,9.71,6.12,9.32,2,2016-12-31
+Applied Materials,AMAT,Semiconductor Equipment,27.03,9.5,7.17,6.16,2,2017-03-31
+Applied Materials,AMAT,Semiconductor Equipment,21.6,9.84,7.06,9.87,3,2017-06-30
+Applied Materials,AMAT,Semiconductor Equipment,27.83,6.44,7.93,6.99,1,2017-09-30
+Applied Materials,AMAT,Semiconductor Equipment,26.75,8.56,8.84,6.02,2,2017-12-31
+Applied Materials,AMAT,Semiconductor Equipment,24.77,8.76,6.47,9.15,2,2018-03-31
+Applied Materials,AMAT,Semiconductor Equipment,24.18,6.02,8.39,6.41,1,2018-06-30
+Applied Materials,AMAT,Semiconductor Equipment,28.07,5.88,7.41,7.64,2,2018-09-30
+Applied Materials,AMAT,Semiconductor Equipment,21.97,8.39,5.61,8.11,3,2018-12-31
+Applied Materials,AMAT,Semiconductor Equipment,26.37,7.87,6.65,8.76,3,2019-03-31
+Applied Materials,AMAT,Semiconductor Equipment,25.24,8.11,9.38,7.02,1,2019-06-30
+Applied Materials,AMAT,Semiconductor Equipment,22.15,6.64,9.02,8.45,2,2019-09-30
+Applied Materials,AMAT,Semiconductor Equipment,27.0,8.57,8.82,8.85,1,2019-12-31
+Applied Materials,AMAT,Semiconductor Equipment,24.44,8.69,7.7,7.65,2,2020-03-31
+Applied Materials,AMAT,Semiconductor Equipment,26.08,6.44,8.36,8.22,3,2020-06-30
+Applied Materials,AMAT,Semiconductor Equipment,21.32,9.07,7.47,8.37,3,2020-09-30
+Applied Materials,AMAT,Semiconductor Equipment,20.5,7.61,8.87,7.38,3,2020-12-31
+Applied Materials,AMAT,Semiconductor Equipment,24.87,8.01,8.5,7.01,1,2021-03-31
+Applied Materials,AMAT,Semiconductor Equipment,26.93,8.77,8.13,5.97,2,2021-06-30
+Applied Materials,AMAT,Semiconductor Equipment,23.39,5.56,8.99,9.27,2,2021-09-30
+Applied Materials,AMAT,Semiconductor Equipment,25.26,9.42,9.36,10.26,3,2021-12-31
+Applied Materials,AMAT,Semiconductor Equipment,20.63,8.39,6.78,8.49,2,2022-03-31
+Applied Materials,AMAT,Semiconductor Equipment,25.84,8.43,7.97,8.4,2,2022-06-30
+Applied Materials,AMAT,Semiconductor Equipment,29.62,7.81,6.71,10.15,1,2022-09-30
+Applied Materials,AMAT,Semiconductor Equipment,26.13,6.91,8.07,6.75,2,2022-12-31
+Applied Materials,AMAT,Semiconductor Equipment,19.8,6.27,6.15,8.64,3,2023-03-31
+Applied Materials,AMAT,Semiconductor Equipment,18.3,7.6,7.57,8.71,1,2023-06-30
+Applied Materials,AMAT,Semiconductor Equipment,21.59,8.4,7.8,8.71,1,2023-09-30
+Applied Materials,AMAT,Semiconductor Equipment,21.39,7.77,8.17,9.03,1,2023-12-31
+Applied Materials,AMAT,Semiconductor Equipment,29.65,7.18,9.88,8.55,3,2024-03-31
+Applied Materials,AMAT,Semiconductor Equipment,24.1,6.48,6.52,5.77,3,2024-06-30
+Applied Materials,AMAT,Semiconductor Equipment,22.47,6.46,7.68,7.72,3,2024-09-30
+Applied Materials,AMAT,Semiconductor Equipment,21.39,6.09,6.6,8.27,3,2024-12-31
+Applied Materials,AMAT,Semiconductor Equipment,24.26,6.22,6.76,5.54,2,2025-03-31
+Applied Materials,AMAT,Semiconductor Equipment,25.79,7.13,7.05,9.6,1,2025-06-30
+Applied Materials,AMAT,Semiconductor Equipment,24.1,6.77,8.61,6.75,1,2025-09-30
+Applied Materials,AMAT,Semiconductor Equipment,21.96,6.94,5.99,7.42,2,2025-12-31
+Applied Materials,AMAT,Semiconductor Equipment,28.06,7.2,7.45,9.14,3,2026-03-31
+Lam Research,LRCX,Semiconductor Equipment,21.58,9.22,8.35,8.69,1,2016-06-30
+Lam Research,LRCX,Semiconductor Equipment,27.91,7.32,9.81,6.04,1,2016-09-30
+Lam Research,LRCX,Semiconductor Equipment,21.64,9.9,7.83,6.87,3,2016-12-31
+Lam Research,LRCX,Semiconductor Equipment,23.89,6.86,7.2,7.03,2,2017-03-31
+Lam Research,LRCX,Semiconductor Equipment,23.64,6.96,7.98,7.91,1,2017-06-30
+Lam Research,LRCX,Semiconductor Equipment,26.21,8.85,7.11,6.61,2,2017-09-30
+Lam Research,LRCX,Semiconductor Equipment,25.3,6.81,6.52,6.97,3,2017-12-31
+Lam Research,LRCX,Semiconductor Equipment,23.87,6.44,7.18,7.35,1,2018-03-31
+Lam Research,LRCX,Semiconductor Equipment,25.83,8.6,6.91,9.14,3,2018-06-30
+Lam Research,LRCX,Semiconductor Equipment,24.2,6.42,8.96,6.42,3,2018-09-30
+Lam Research,LRCX,Semiconductor Equipment,21.86,9.34,9.78,9.62,3,2018-12-31
+Lam Research,LRCX,Semiconductor Equipment,28.26,9.95,8.82,9.23,2,2019-03-31
+Lam Research,LRCX,Semiconductor Equipment,26.32,6.37,6.69,6.97,2,2019-06-30
+Lam Research,LRCX,Semiconductor Equipment,25.61,8.55,8.37,7.82,2,2019-09-30
+Lam Research,LRCX,Semiconductor Equipment,25.93,7.88,6.27,9.12,3,2019-12-31
+Lam Research,LRCX,Semiconductor Equipment,18.9,8.47,8.02,8.44,1,2020-03-31
+Lam Research,LRCX,Semiconductor Equipment,22.24,6.76,6.91,8.27,2,2020-06-30
+Lam Research,LRCX,Semiconductor Equipment,24.11,7.47,7.61,8.24,3,2020-09-30
+Lam Research,LRCX,Semiconductor Equipment,26.56,9.42,8.64,9.46,1,2020-12-31
+Lam Research,LRCX,Semiconductor Equipment,24.64,8.42,6.41,6.25,1,2021-03-31
+Lam Research,LRCX,Semiconductor Equipment,28.45,8.82,7.53,10.15,1,2021-06-30
+Lam Research,LRCX,Semiconductor Equipment,25.57,5.95,8.77,7.8,3,2021-09-30
+Lam Research,LRCX,Semiconductor Equipment,20.35,5.94,9.4,9.24,3,2021-12-31
+Lam Research,LRCX,Semiconductor Equipment,20.51,8.73,5.49,6.15,1,2022-03-31
+Lam Research,LRCX,Semiconductor Equipment,24.23,6.73,5.57,5.78,1,2022-06-30
+Lam Research,LRCX,Semiconductor Equipment,26.17,8.14,7.67,6.97,3,2022-09-30
+Lam Research,LRCX,Semiconductor Equipment,29.5,9.1,8.18,10.1,1,2022-12-31
+Lam Research,LRCX,Semiconductor Equipment,23.7,6.6,8.67,8.75,3,2023-03-31
+Lam Research,LRCX,Semiconductor Equipment,26.35,5.82,6.84,9.68,2,2023-06-30
+Lam Research,LRCX,Semiconductor Equipment,25.55,7.55,6.78,8.39,2,2023-09-30
+Lam Research,LRCX,Semiconductor Equipment,26.96,9.55,9.16,6.68,1,2023-12-31
+Lam Research,LRCX,Semiconductor Equipment,26.44,6.33,7.31,7.15,1,2024-03-31
+Lam Research,LRCX,Semiconductor Equipment,25.07,8.0,7.56,7.09,1,2024-06-30
+Lam Research,LRCX,Semiconductor Equipment,24.23,7.62,6.05,5.93,3,2024-09-30
+Lam Research,LRCX,Semiconductor Equipment,26.88,7.68,7.87,7.55,2,2024-12-31
+Lam Research,LRCX,Semiconductor Equipment,23.0,6.91,8.83,5.64,3,2025-03-31
+Lam Research,LRCX,Semiconductor Equipment,24.64,6.76,7.38,8.18,1,2025-06-30
+Lam Research,LRCX,Semiconductor Equipment,23.84,7.42,9.32,7.66,1,2025-09-30
+Lam Research,LRCX,Semiconductor Equipment,21.29,7.18,6.73,5.26,1,2025-12-31
+Lam Research,LRCX,Semiconductor Equipment,18.07,6.52,7.54,5.36,2,2026-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,27.59,8.6,8.38,7.2,3,2016-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,22.46,7.21,9.82,9.82,2,2016-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,25.86,9.8,9.07,7.23,2,2016-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,23.79,6.33,8.15,8.25,3,2017-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,27.2,6.13,8.93,9.79,1,2017-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,23.14,8.7,9.22,9.11,2,2017-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,21.59,7.03,6.85,6.43,2,2017-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,20.82,9.69,7.68,7.33,3,2018-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,26.85,7.29,5.82,9.49,3,2018-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,24.1,8.14,5.98,8.66,3,2018-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,21.48,8.15,8.0,8.28,3,2018-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,26.68,9.74,7.62,5.92,2,2019-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,27.04,8.26,8.77,6.91,2,2019-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,26.8,8.22,7.89,7.25,1,2019-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,22.69,9.45,6.14,9.09,3,2019-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,23.83,7.94,6.93,8.05,2,2020-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,27.28,7.98,6.42,6.35,3,2020-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,28.26,8.76,8.85,6.82,3,2020-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,22.42,6.65,8.25,9.84,1,2020-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,23.9,6.0,7.99,6.84,3,2021-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,21.08,7.85,7.11,8.3,1,2021-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,26.51,9.14,8.27,9.16,3,2021-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,23.89,7.93,7.13,9.55,3,2021-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,20.13,6.37,6.56,5.27,2,2022-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,23.01,8.23,7.94,6.16,3,2022-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,24.63,6.64,6.43,5.86,2,2022-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,22.72,6.84,5.84,6.71,1,2022-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,23.99,9.22,9.33,6.23,1,2023-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,20.75,6.78,7.39,5.73,2,2023-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,20.7,5.32,6.28,6.79,3,2023-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,24.97,7.13,8.91,7.43,1,2023-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,25.36,6.18,5.53,6.2,2,2024-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,25.2,9.16,9.22,8.39,1,2024-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,20.96,7.41,9.31,7.4,1,2024-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,20.97,5.63,6.63,7.7,3,2024-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,19.78,8.74,6.72,6.13,1,2025-03-31
+KLA Corporation,KLAC,Semiconductor Equipment,27.56,8.61,6.53,8.75,3,2025-06-30
+KLA Corporation,KLAC,Semiconductor Equipment,24.55,7.27,6.71,7.3,1,2025-09-30
+KLA Corporation,KLAC,Semiconductor Equipment,23.05,6.74,6.81,6.85,1,2025-12-31
+KLA Corporation,KLAC,Semiconductor Equipment,26.04,6.95,6.89,9.23,3,2026-03-31
+ASML Holding,ASML,Semiconductor Equipment,22.08,9.0,7.65,6.24,2,2016-06-30
+ASML Holding,ASML,Semiconductor Equipment,21.89,9.42,6.96,8.8,1,2016-09-30
+ASML Holding,ASML,Semiconductor Equipment,26.2,7.88,8.25,7.0,2,2016-12-31
+ASML Holding,ASML,Semiconductor Equipment,21.53,9.15,9.05,7.58,3,2017-03-31
+ASML Holding,ASML,Semiconductor Equipment,28.47,7.47,9.79,7.3,1,2017-06-30
+ASML Holding,ASML,Semiconductor Equipment,27.14,6.15,9.7,8.32,3,2017-09-30
+ASML Holding,ASML,Semiconductor Equipment,21.37,8.09,6.83,7.67,1,2017-12-31
+ASML Holding,ASML,Semiconductor Equipment,23.23,7.01,8.08,6.4,2,2018-03-31
+ASML Holding,ASML,Semiconductor Equipment,27.27,8.74,5.92,8.2,2,2018-06-30
+ASML Holding,ASML,Semiconductor Equipment,28.87,6.78,7.96,10.12,2,2018-09-30
+ASML Holding,ASML,Semiconductor Equipment,26.61,6.56,8.63,6.67,2,2018-12-31
+ASML Holding,ASML,Semiconductor Equipment,24.24,6.45,8.76,8.72,1,2019-03-31
+ASML Holding,ASML,Semiconductor Equipment,23.08,8.67,6.83,8.5,3,2019-06-30
+ASML Holding,ASML,Semiconductor Equipment,23.12,6.46,8.5,8.22,2,2019-09-30
+ASML Holding,ASML,Semiconductor Equipment,27.26,9.51,10.16,7.93,1,2019-12-31
+ASML Holding,ASML,Semiconductor Equipment,22.13,6.11,9.01,6.17,2,2020-03-31
+ASML Holding,ASML,Semiconductor Equipment,20.03,8.37,8.39,5.81,3,2020-06-30
+ASML Holding,ASML,Semiconductor Equipment,25.62,6.16,8.71,7.89,3,2020-09-30
+ASML Holding,ASML,Semiconductor Equipment,27.12,9.73,8.51,7.82,1,2020-12-31
+ASML Holding,ASML,Semiconductor Equipment,22.44,9.23,8.55,7.76,2,2021-03-31
+ASML Holding,ASML,Semiconductor Equipment,21.85,7.02,6.26,8.12,3,2021-06-30
+ASML Holding,ASML,Semiconductor Equipment,21.25,9.05,5.5,8.68,2,2021-09-30
+ASML Holding,ASML,Semiconductor Equipment,26.06,6.83,7.63,8.66,1,2021-12-31
+ASML Holding,ASML,Semiconductor Equipment,20.75,7.59,8.03,7.71,1,2022-03-31
+ASML Holding,ASML,Semiconductor Equipment,24.84,5.26,8.36,7.0,2,2022-06-30
+ASML Holding,ASML,Semiconductor Equipment,20.86,7.35,9.49,5.76,3,2022-09-30
+ASML Holding,ASML,Semiconductor Equipment,24.07,6.5,6.53,9.5,3,2022-12-31
+ASML Holding,ASML,Semiconductor Equipment,26.5,9.0,7.63,7.54,3,2023-03-31
+ASML Holding,ASML,Semiconductor Equipment,24.28,6.53,6.75,7.47,1,2023-06-30
+ASML Holding,ASML,Semiconductor Equipment,17.93,5.8,7.05,7.54,3,2023-09-30
+ASML Holding,ASML,Semiconductor Equipment,18.88,7.87,8.12,8.46,1,2023-12-31
+ASML Holding,ASML,Semiconductor Equipment,28.43,6.48,8.46,6.23,3,2024-03-31
+ASML Holding,ASML,Semiconductor Equipment,23.7,5.35,7.86,7.68,1,2024-06-30
+ASML Holding,ASML,Semiconductor Equipment,22.11,7.48,8.79,6.45,2,2024-09-30
+ASML Holding,ASML,Semiconductor Equipment,28.11,7.38,9.8,9.39,1,2024-12-31
+ASML Holding,ASML,Semiconductor Equipment,23.82,7.88,6.87,9.69,3,2025-03-31
+ASML Holding,ASML,Semiconductor Equipment,25.92,7.89,8.38,8.71,2,2025-06-30
+ASML Holding,ASML,Semiconductor Equipment,27.89,9.82,8.91,6.71,3,2025-09-30
+ASML Holding,ASML,Semiconductor Equipment,19.33,8.75,6.37,7.18,2,2025-12-31
+ASML Holding,ASML,Semiconductor Equipment,17.07,7.96,5.0,7.34,3,2026-03-31
+Marvell Technology,MRVL,Semiconductors,24.35,7.29,7.67,8.88,2,2016-06-30
+Marvell Technology,MRVL,Semiconductors,25.45,6.44,8.66,6.17,1,2016-09-30
+Marvell Technology,MRVL,Semiconductors,28.62,9.74,6.21,7.78,2,2016-12-31
+Marvell Technology,MRVL,Semiconductors,23.16,6.23,7.73,7.36,2,2017-03-31
+Marvell Technology,MRVL,Semiconductors,23.17,8.4,7.78,8.28,2,2017-06-30
+Marvell Technology,MRVL,Semiconductors,26.44,8.66,7.96,8.92,1,2017-09-30
+Marvell Technology,MRVL,Semiconductors,24.58,7.04,7.48,9.46,1,2017-12-31
+Marvell Technology,MRVL,Semiconductors,20.01,8.28,9.09,8.56,1,2018-03-31
+Marvell Technology,MRVL,Semiconductors,28.94,7.7,9.87,9.92,1,2018-06-30
+Marvell Technology,MRVL,Semiconductors,20.89,9.39,9.33,7.78,3,2018-09-30
+Marvell Technology,MRVL,Semiconductors,23.34,8.53,7.93,7.56,3,2018-12-31
+Marvell Technology,MRVL,Semiconductors,20.31,7.82,7.35,9.41,1,2019-03-31
+Marvell Technology,MRVL,Semiconductors,27.7,9.67,7.54,9.29,2,2019-06-30
+Marvell Technology,MRVL,Semiconductors,22.99,6.24,6.76,9.06,3,2019-09-30
+Marvell Technology,MRVL,Semiconductors,22.25,7.94,7.38,6.62,2,2019-12-31
+Marvell Technology,MRVL,Semiconductors,20.46,6.46,6.4,5.71,1,2020-03-31
+Marvell Technology,MRVL,Semiconductors,21.6,8.18,7.86,6.22,2,2020-06-30
+Marvell Technology,MRVL,Semiconductors,27.04,10.0,7.69,6.32,2,2020-09-30
+Marvell Technology,MRVL,Semiconductors,28.89,6.11,7.61,7.8,3,2020-12-31
+Marvell Technology,MRVL,Semiconductors,20.59,6.0,8.82,6.08,1,2021-03-31
+Marvell Technology,MRVL,Semiconductors,26.48,5.69,8.58,6.66,3,2021-06-30
+Marvell Technology,MRVL,Semiconductors,18.71,7.31,8.78,5.26,1,2021-09-30
+Marvell Technology,MRVL,Semiconductors,26.4,9.32,6.44,9.47,2,2021-12-31
+Marvell Technology,MRVL,Semiconductors,29.14,6.41,9.88,7.94,3,2022-03-31
+Marvell Technology,MRVL,Semiconductors,20.52,8.48,6.48,6.61,1,2022-06-30
+Marvell Technology,MRVL,Semiconductors,24.44,6.55,8.42,8.42,3,2022-09-30
+Marvell Technology,MRVL,Semiconductors,24.06,8.12,6.17,7.03,1,2022-12-31
+Marvell Technology,MRVL,Semiconductors,25.2,8.86,6.72,9.65,3,2023-03-31
+Marvell Technology,MRVL,Semiconductors,25.79,8.03,6.5,7.08,2,2023-06-30
+Marvell Technology,MRVL,Semiconductors,24.97,7.09,6.91,5.91,3,2023-09-30
+Marvell Technology,MRVL,Semiconductors,28.36,9.18,6.29,10.03,3,2023-12-31
+Marvell Technology,MRVL,Semiconductors,24.99,6.69,6.43,6.75,1,2024-03-31
+Marvell Technology,MRVL,Semiconductors,27.42,9.63,6.19,9.95,1,2024-06-30
+Marvell Technology,MRVL,Semiconductors,26.66,6.78,9.08,9.19,1,2024-09-30
+Marvell Technology,MRVL,Semiconductors,26.26,9.41,8.95,9.84,1,2024-12-31
+Marvell Technology,MRVL,Semiconductors,20.56,7.13,5.59,8.65,2,2025-03-31
+Marvell Technology,MRVL,Semiconductors,20.25,5.4,5.58,7.65,1,2025-06-30
+Marvell Technology,MRVL,Semiconductors,18.91,8.94,6.18,5.79,3,2025-09-30
+Marvell Technology,MRVL,Semiconductors,27.99,9.67,6.41,6.79,3,2025-12-31
+Marvell Technology,MRVL,Semiconductors,21.86,7.52,7.84,7.97,2,2026-03-31
+NXP Semiconductors,NXPI,Semiconductors,26.3,8.34,7.35,7.29,1,2016-06-30
+NXP Semiconductors,NXPI,Semiconductors,24.4,8.52,7.92,7.23,3,2016-09-30
+NXP Semiconductors,NXPI,Semiconductors,26.25,9.61,9.06,6.79,3,2016-12-31
+NXP Semiconductors,NXPI,Semiconductors,23.68,8.81,7.07,6.59,1,2017-03-31
+NXP Semiconductors,NXPI,Semiconductors,28.02,7.37,9.81,9.66,1,2017-06-30
+NXP Semiconductors,NXPI,Semiconductors,23.62,9.26,8.47,8.58,1,2017-09-30
+NXP Semiconductors,NXPI,Semiconductors,21.28,8.68,6.7,9.63,1,2017-12-31
+NXP Semiconductors,NXPI,Semiconductors,28.15,9.09,8.51,8.72,2,2018-03-31
+NXP Semiconductors,NXPI,Semiconductors,22.8,6.89,6.17,6.91,1,2018-06-30
+NXP Semiconductors,NXPI,Semiconductors,20.52,7.45,7.42,6.36,2,2018-09-30
+NXP Semiconductors,NXPI,Semiconductors,23.53,8.01,6.26,7.74,3,2018-12-31
+NXP Semiconductors,NXPI,Semiconductors,25.59,6.33,6.02,9.07,2,2019-03-31
+NXP Semiconductors,NXPI,Semiconductors,23.65,6.62,7.54,9.75,1,2019-06-30
+NXP Semiconductors,NXPI,Semiconductors,24.09,9.14,5.99,7.93,3,2019-09-30
+NXP Semiconductors,NXPI,Semiconductors,24.79,7.08,8.06,7.78,2,2019-12-31
+NXP Semiconductors,NXPI,Semiconductors,22.1,6.92,6.85,8.89,3,2020-03-31
+NXP Semiconductors,NXPI,Semiconductors,23.1,7.87,6.52,5.61,2,2020-06-30
+NXP Semiconductors,NXPI,Semiconductors,26.6,6.22,7.11,7.32,2,2020-09-30
+NXP Semiconductors,NXPI,Semiconductors,23.88,7.18,5.75,6.09,3,2020-12-31
+NXP Semiconductors,NXPI,Semiconductors,21.49,9.32,7.18,7.53,2,2021-03-31
+NXP Semiconductors,NXPI,Semiconductors,20.47,7.64,6.76,6.56,2,2021-06-30
+NXP Semiconductors,NXPI,Semiconductors,24.05,6.87,7.71,6.72,2,2021-09-30
+NXP Semiconductors,NXPI,Semiconductors,20.79,8.29,5.96,8.18,3,2021-12-31
+NXP Semiconductors,NXPI,Semiconductors,26.28,6.64,6.01,7.28,3,2022-03-31
+NXP Semiconductors,NXPI,Semiconductors,24.45,9.18,7.65,9.24,2,2022-06-30
+NXP Semiconductors,NXPI,Semiconductors,23.91,9.33,6.06,8.2,3,2022-09-30
+NXP Semiconductors,NXPI,Semiconductors,23.48,7.45,5.6,8.0,1,2022-12-31
+NXP Semiconductors,NXPI,Semiconductors,18.47,5.49,5.61,5.0,1,2023-03-31
+NXP Semiconductors,NXPI,Semiconductors,20.24,8.51,7.24,7.85,2,2023-06-30
+NXP Semiconductors,NXPI,Semiconductors,26.4,9.08,6.22,8.08,3,2023-09-30
+NXP Semiconductors,NXPI,Semiconductors,22.74,7.67,9.35,8.98,3,2023-12-31
+NXP Semiconductors,NXPI,Semiconductors,25.11,5.7,5.95,7.51,3,2024-03-31
+NXP Semiconductors,NXPI,Semiconductors,25.18,8.53,7.25,5.24,2,2024-06-30
+NXP Semiconductors,NXPI,Semiconductors,23.86,8.05,5.8,7.16,3,2024-09-30
+NXP Semiconductors,NXPI,Semiconductors,18.79,6.22,5.82,7.56,3,2024-12-31
+NXP Semiconductors,NXPI,Semiconductors,23.08,9.13,8.44,5.82,2,2025-03-31
+NXP Semiconductors,NXPI,Semiconductors,23.22,5.0,7.78,5.48,2,2025-06-30
+NXP Semiconductors,NXPI,Semiconductors,23.37,7.16,8.54,5.34,2,2025-09-30
+NXP Semiconductors,NXPI,Semiconductors,18.9,7.33,5.38,5.69,3,2025-12-31
+NXP Semiconductors,NXPI,Semiconductors,25.82,10.1,8.01,8.39,3,2026-03-31
+Analog Devices,ADI,Semiconductors,27.57,8.06,6.64,7.24,3,2016-06-30
+Analog Devices,ADI,Semiconductors,27.21,8.09,8.27,6.68,1,2016-09-30
+Analog Devices,ADI,Semiconductors,22.75,7.74,9.6,8.73,2,2016-12-31
+Analog Devices,ADI,Semiconductors,24.64,7.56,9.67,8.7,1,2017-03-31
+Analog Devices,ADI,Semiconductors,25.65,6.68,9.45,8.31,2,2017-06-30
+Analog Devices,ADI,Semiconductors,27.6,7.0,9.29,6.33,1,2017-09-30
+Analog Devices,ADI,Semiconductors,22.13,8.23,9.81,9.37,3,2017-12-31
+Analog Devices,ADI,Semiconductors,22.69,8.62,8.06,9.47,3,2018-03-31
+Analog Devices,ADI,Semiconductors,28.69,8.73,8.52,6.17,2,2018-06-30
+Analog Devices,ADI,Semiconductors,27.88,8.62,8.64,6.87,2,2018-09-30
+Analog Devices,ADI,Semiconductors,23.44,6.44,6.84,7.65,3,2018-12-31
+Analog Devices,ADI,Semiconductors,21.49,7.93,8.55,9.26,2,2019-03-31
+Analog Devices,ADI,Semiconductors,24.98,6.86,8.51,7.66,2,2019-06-30
+Analog Devices,ADI,Semiconductors,24.16,8.76,6.45,8.16,3,2019-09-30
+Analog Devices,ADI,Semiconductors,22.06,9.01,9.56,9.17,3,2019-12-31
+Analog Devices,ADI,Semiconductors,23.08,6.39,5.96,7.82,2,2020-03-31
+Analog Devices,ADI,Semiconductors,24.32,7.54,6.13,8.82,3,2020-06-30
+Analog Devices,ADI,Semiconductors,21.77,8.16,8.15,7.86,2,2020-09-30
+Analog Devices,ADI,Semiconductors,23.95,7.18,8.65,8.51,3,2020-12-31
+Analog Devices,ADI,Semiconductors,22.05,6.61,7.12,9.33,1,2021-03-31
+Analog Devices,ADI,Semiconductors,25.34,7.62,6.03,5.89,2,2021-06-30
+Analog Devices,ADI,Semiconductors,27.36,7.23,8.12,7.6,1,2021-09-30
+Analog Devices,ADI,Semiconductors,26.94,7.99,9.48,5.94,1,2021-12-31
+Analog Devices,ADI,Semiconductors,26.76,7.11,6.84,5.8,1,2022-03-31
+Analog Devices,ADI,Semiconductors,23.16,7.83,8.44,9.82,2,2022-06-30
+Analog Devices,ADI,Semiconductors,28.45,6.91,6.49,7.52,1,2022-09-30
+Analog Devices,ADI,Semiconductors,21.13,7.69,6.74,8.98,3,2022-12-31
+Analog Devices,ADI,Semiconductors,22.07,8.06,5.5,7.46,3,2023-03-31
+Analog Devices,ADI,Semiconductors,23.4,7.55,5.71,7.77,3,2023-06-30
+Analog Devices,ADI,Semiconductors,20.38,7.03,9.11,6.51,3,2023-09-30
+Analog Devices,ADI,Semiconductors,28.38,7.43,9.96,7.78,1,2023-12-31
+Analog Devices,ADI,Semiconductors,24.86,6.37,9.04,6.9,2,2024-03-31
+Analog Devices,ADI,Semiconductors,23.81,7.62,7.33,8.27,1,2024-06-30
+Analog Devices,ADI,Semiconductors,27.58,7.22,6.57,9.57,2,2024-09-30
+Analog Devices,ADI,Semiconductors,24.41,10.5,7.33,6.65,3,2024-12-31
+Analog Devices,ADI,Semiconductors,24.51,8.81,6.32,9.71,2,2025-03-31
+Analog Devices,ADI,Semiconductors,22.14,7.03,5.04,5.09,1,2025-06-30
+Analog Devices,ADI,Semiconductors,23.46,8.31,6.95,7.55,3,2025-09-30
+Analog Devices,ADI,Semiconductors,27.32,8.79,7.43,8.91,3,2025-12-31
+Analog Devices,ADI,Semiconductors,23.82,8.05,7.03,8.84,3,2026-03-31
+ON Semiconductor,ON,Semiconductors,21.94,6.46,6.43,6.79,1,2016-06-30
+ON Semiconductor,ON,Semiconductors,27.54,9.85,7.4,7.6,1,2016-09-30
+ON Semiconductor,ON,Semiconductors,25.06,6.86,9.76,7.35,1,2016-12-31
+ON Semiconductor,ON,Semiconductors,21.86,6.49,8.34,8.03,1,2017-03-31
+ON Semiconductor,ON,Semiconductors,21.17,8.74,9.49,8.43,2,2017-06-30
+ON Semiconductor,ON,Semiconductors,22.61,7.59,6.17,6.43,1,2017-09-30
+ON Semiconductor,ON,Semiconductors,23.14,8.45,7.48,6.2,1,2017-12-31
+ON Semiconductor,ON,Semiconductors,22.45,8.71,7.42,9.7,3,2018-03-31
+ON Semiconductor,ON,Semiconductors,26.83,7.48,7.36,6.44,2,2018-06-30
+ON Semiconductor,ON,Semiconductors,21.86,7.08,9.01,8.74,3,2018-09-30
+ON Semiconductor,ON,Semiconductors,21.03,6.07,8.51,9.47,1,2018-12-31
+ON Semiconductor,ON,Semiconductors,28.62,8.05,8.37,7.87,3,2019-03-31
+ON Semiconductor,ON,Semiconductors,23.55,6.0,8.64,9.24,1,2019-06-30
+ON Semiconductor,ON,Semiconductors,24.28,9.33,7.58,6.04,3,2019-09-30
+ON Semiconductor,ON,Semiconductors,26.45,8.65,9.01,8.24,3,2019-12-31
+ON Semiconductor,ON,Semiconductors,28.73,9.52,8.1,8.78,3,2020-03-31
+ON Semiconductor,ON,Semiconductors,26.8,7.17,7.54,8.88,2,2020-06-30
+ON Semiconductor,ON,Semiconductors,27.97,9.69,8.56,6.17,1,2020-09-30
+ON Semiconductor,ON,Semiconductors,23.81,7.65,6.38,8.68,2,2020-12-31
+ON Semiconductor,ON,Semiconductors,28.8,6.21,6.9,8.59,2,2021-03-31
+ON Semiconductor,ON,Semiconductors,19.3,6.96,7.59,5.54,2,2021-06-30
+ON Semiconductor,ON,Semiconductors,21.1,7.69,8.36,6.11,2,2021-09-30
+ON Semiconductor,ON,Semiconductors,26.36,9.64,9.46,10.19,3,2021-12-31
+ON Semiconductor,ON,Semiconductors,24.81,6.74,8.61,9.71,2,2022-03-31
+ON Semiconductor,ON,Semiconductors,24.7,8.39,6.48,8.08,3,2022-06-30
+ON Semiconductor,ON,Semiconductors,25.11,8.46,6.11,8.64,1,2022-09-30
+ON Semiconductor,ON,Semiconductors,25.16,9.0,9.6,8.65,2,2022-12-31
+ON Semiconductor,ON,Semiconductors,18.86,5.78,5.81,7.99,3,2023-03-31
+ON Semiconductor,ON,Semiconductors,22.12,6.46,6.21,9.09,1,2023-06-30
+ON Semiconductor,ON,Semiconductors,26.02,8.44,6.06,7.23,3,2023-09-30
+ON Semiconductor,ON,Semiconductors,22.09,7.82,6.72,7.37,3,2023-12-31
+ON Semiconductor,ON,Semiconductors,25.72,8.38,6.41,10.0,3,2024-03-31
+ON Semiconductor,ON,Semiconductors,23.54,9.15,6.25,7.78,3,2024-06-30
+ON Semiconductor,ON,Semiconductors,18.0,7.29,7.28,5.95,2,2024-09-30
+ON Semiconductor,ON,Semiconductors,24.7,8.36,6.64,7.18,2,2024-12-31
+ON Semiconductor,ON,Semiconductors,19.45,5.0,6.1,6.99,3,2025-03-31
+ON Semiconductor,ON,Semiconductors,25.81,7.51,6.67,8.27,3,2025-06-30
+ON Semiconductor,ON,Semiconductors,19.7,7.48,6.29,6.36,3,2025-09-30
+ON Semiconductor,ON,Semiconductors,27.6,10.22,6.99,8.49,3,2025-12-31
+ON Semiconductor,ON,Semiconductors,21.34,7.21,7.75,8.08,3,2026-03-31
+Monolithic Power Systems,MPWR,Semiconductors,26.39,9.58,8.14,9.51,2,2016-06-30
+Monolithic Power Systems,MPWR,Semiconductors,25.07,6.06,6.55,8.64,1,2016-09-30
+Monolithic Power Systems,MPWR,Semiconductors,27.28,9.93,8.73,6.58,1,2016-12-31
+Monolithic Power Systems,MPWR,Semiconductors,23.09,8.92,6.05,9.16,1,2017-03-31
+Monolithic Power Systems,MPWR,Semiconductors,26.1,8.14,6.81,8.48,2,2017-06-30
+Monolithic Power Systems,MPWR,Semiconductors,27.29,9.2,7.15,8.66,2,2017-09-30
+Monolithic Power Systems,MPWR,Semiconductors,28.48,9.84,7.2,8.15,1,2017-12-31
+Monolithic Power Systems,MPWR,Semiconductors,21.92,9.23,9.23,7.52,1,2018-03-31
+Monolithic Power Systems,MPWR,Semiconductors,25.55,8.21,8.69,7.81,3,2018-06-30
+Monolithic Power Systems,MPWR,Semiconductors,26.9,6.81,7.82,9.97,1,2018-09-30
+Monolithic Power Systems,MPWR,Semiconductors,22.52,8.1,7.55,7.76,3,2018-12-31
+Monolithic Power Systems,MPWR,Semiconductors,22.26,9.37,6.01,7.85,1,2019-03-31
+Monolithic Power Systems,MPWR,Semiconductors,28.95,8.57,9.25,8.68,3,2019-06-30
+Monolithic Power Systems,MPWR,Semiconductors,27.18,8.15,6.25,8.78,3,2019-09-30
+Monolithic Power Systems,MPWR,Semiconductors,22.56,6.3,8.05,7.69,3,2019-12-31
+Monolithic Power Systems,MPWR,Semiconductors,23.32,9.37,8.51,7.16,2,2020-03-31
+Monolithic Power Systems,MPWR,Semiconductors,27.12,8.16,10.02,9.33,3,2020-06-30
+Monolithic Power Systems,MPWR,Semiconductors,27.19,8.08,9.87,8.75,3,2020-09-30
+Monolithic Power Systems,MPWR,Semiconductors,21.34,9.55,7.53,9.19,1,2020-12-31
+Monolithic Power Systems,MPWR,Semiconductors,24.79,6.95,9.49,9.1,2,2021-03-31
+Monolithic Power Systems,MPWR,Semiconductors,23.99,7.57,6.86,8.23,2,2021-06-30
+Monolithic Power Systems,MPWR,Semiconductors,27.45,6.27,9.48,7.75,1,2021-09-30
+Monolithic Power Systems,MPWR,Semiconductors,20.98,7.92,6.34,8.15,1,2021-12-31
+Monolithic Power Systems,MPWR,Semiconductors,27.84,9.59,9.03,7.81,1,2022-03-31
+Monolithic Power Systems,MPWR,Semiconductors,19.78,6.98,6.59,5.49,1,2022-06-30
+Monolithic Power Systems,MPWR,Semiconductors,23.38,6.41,9.4,9.77,2,2022-09-30
+Monolithic Power Systems,MPWR,Semiconductors,25.31,7.47,5.85,8.44,3,2022-12-31
+Monolithic Power Systems,MPWR,Semiconductors,28.11,6.73,9.39,6.66,1,2023-03-31
+Monolithic Power Systems,MPWR,Semiconductors,24.4,6.94,8.56,8.21,2,2023-06-30
+Monolithic Power Systems,MPWR,Semiconductors,21.44,6.51,7.72,6.82,3,2023-09-30
+Monolithic Power Systems,MPWR,Semiconductors,27.16,9.25,9.45,7.24,3,2023-12-31
+Monolithic Power Systems,MPWR,Semiconductors,27.09,9.89,9.38,9.15,2,2024-03-31
+Monolithic Power Systems,MPWR,Semiconductors,16.45,7.87,5.17,5.0,3,2024-06-30
+Monolithic Power Systems,MPWR,Semiconductors,22.95,8.97,6.51,8.17,3,2024-09-30
+Monolithic Power Systems,MPWR,Semiconductors,23.65,8.35,7.85,6.41,1,2024-12-31
+Monolithic Power Systems,MPWR,Semiconductors,20.39,5.54,7.89,7.35,1,2025-03-31
+Monolithic Power Systems,MPWR,Semiconductors,24.02,8.42,6.51,6.64,2,2025-06-30
+Monolithic Power Systems,MPWR,Semiconductors,19.8,5.67,7.36,8.69,2,2025-09-30
+Monolithic Power Systems,MPWR,Semiconductors,27.19,6.73,8.76,9.93,2,2025-12-31
+Monolithic Power Systems,MPWR,Semiconductors,21.74,7.98,8.21,5.95,3,2026-03-31
+Skyworks Solutions,SWKS,Semiconductors,23.53,7.71,6.02,6.98,1,2016-06-30
+Skyworks Solutions,SWKS,Semiconductors,26.03,7.07,7.41,8.68,2,2016-09-30
+Skyworks Solutions,SWKS,Semiconductors,24.44,7.34,7.14,8.12,1,2016-12-31
+Skyworks Solutions,SWKS,Semiconductors,21.41,7.04,9.23,9.48,1,2017-03-31
+Skyworks Solutions,SWKS,Semiconductors,28.08,6.3,6.3,6.07,3,2017-06-30
+Skyworks Solutions,SWKS,Semiconductors,27.11,8.18,8.96,6.71,1,2017-09-30
+Skyworks Solutions,SWKS,Semiconductors,24.98,9.86,7.78,8.97,2,2017-12-31
+Skyworks Solutions,SWKS,Semiconductors,27.93,8.29,9.37,6.46,3,2018-03-31
+Skyworks Solutions,SWKS,Semiconductors,23.75,7.86,8.52,9.24,3,2018-06-30
+Skyworks Solutions,SWKS,Semiconductors,26.26,6.28,6.4,7.98,3,2018-09-30
+Skyworks Solutions,SWKS,Semiconductors,27.9,8.65,7.68,7.14,1,2018-12-31
+Skyworks Solutions,SWKS,Semiconductors,21.7,6.65,6.59,8.27,3,2019-03-31
+Skyworks Solutions,SWKS,Semiconductors,22.27,7.31,7.33,5.62,3,2019-06-30
+Skyworks Solutions,SWKS,Semiconductors,26.43,8.02,9.26,9.27,2,2019-09-30
+Skyworks Solutions,SWKS,Semiconductors,24.62,7.18,7.23,8.02,1,2019-12-31
+Skyworks Solutions,SWKS,Semiconductors,23.19,9.34,7.82,7.12,2,2020-03-31
+Skyworks Solutions,SWKS,Semiconductors,24.08,8.14,7.77,6.28,1,2020-06-30
+Skyworks Solutions,SWKS,Semiconductors,25.19,7.15,6.62,6.65,3,2020-09-30
+Skyworks Solutions,SWKS,Semiconductors,20.22,6.32,8.73,8.28,2,2020-12-31
+Skyworks Solutions,SWKS,Semiconductors,23.17,7.78,8.09,7.06,1,2021-03-31
+Skyworks Solutions,SWKS,Semiconductors,26.44,6.94,8.77,6.45,3,2021-06-30
+Skyworks Solutions,SWKS,Semiconductors,22.78,9.85,8.2,7.78,3,2021-09-30
+Skyworks Solutions,SWKS,Semiconductors,26.28,8.3,8.76,9.18,1,2021-12-31
+Skyworks Solutions,SWKS,Semiconductors,28.0,9.14,6.4,8.99,3,2022-03-31
+Skyworks Solutions,SWKS,Semiconductors,26.19,9.25,8.65,8.23,1,2022-06-30
+Skyworks Solutions,SWKS,Semiconductors,21.31,6.96,7.63,6.07,2,2022-09-30
+Skyworks Solutions,SWKS,Semiconductors,21.76,8.31,9.83,8.96,1,2022-12-31
+Skyworks Solutions,SWKS,Semiconductors,20.45,8.92,7.81,8.82,3,2023-03-31
+Skyworks Solutions,SWKS,Semiconductors,20.49,7.42,6.08,7.9,1,2023-06-30
+Skyworks Solutions,SWKS,Semiconductors,23.35,7.25,6.93,6.13,1,2023-09-30
+Skyworks Solutions,SWKS,Semiconductors,21.68,8.79,7.1,8.11,2,2023-12-31
+Skyworks Solutions,SWKS,Semiconductors,24.77,8.29,8.14,5.64,1,2024-03-31
+Skyworks Solutions,SWKS,Semiconductors,27.1,9.63,6.33,8.38,3,2024-06-30
+Skyworks Solutions,SWKS,Semiconductors,21.44,8.46,8.84,7.94,1,2024-09-30
+Skyworks Solutions,SWKS,Semiconductors,22.12,6.16,8.65,6.98,1,2024-12-31
+Skyworks Solutions,SWKS,Semiconductors,26.9,7.25,9.63,7.93,2,2025-03-31
+Skyworks Solutions,SWKS,Semiconductors,26.26,6.65,6.01,7.27,3,2025-06-30
+Skyworks Solutions,SWKS,Semiconductors,22.2,7.6,6.49,6.61,2,2025-09-30
+Skyworks Solutions,SWKS,Semiconductors,20.1,5.12,8.23,5.05,1,2025-12-31
+Skyworks Solutions,SWKS,Semiconductors,25.02,6.1,6.39,7.05,2,2026-03-31
+Qorvo Inc,QRVO,Semiconductors,25.91,8.74,6.21,7.56,3,2016-06-30
+Qorvo Inc,QRVO,Semiconductors,21.78,6.6,9.72,7.76,1,2016-09-30
+Qorvo Inc,QRVO,Semiconductors,23.96,8.43,8.9,9.72,2,2016-12-31
+Qorvo Inc,QRVO,Semiconductors,24.94,8.77,8.32,9.7,1,2017-03-31
+Qorvo Inc,QRVO,Semiconductors,24.19,6.69,8.53,9.1,2,2017-06-30
+Qorvo Inc,QRVO,Semiconductors,27.33,8.06,8.81,8.48,3,2017-09-30
+Qorvo Inc,QRVO,Semiconductors,23.18,6.09,6.71,10.08,2,2017-12-31
+Qorvo Inc,QRVO,Semiconductors,24.01,8.29,8.03,8.9,1,2018-03-31
+Qorvo Inc,QRVO,Semiconductors,24.3,8.52,7.91,7.95,2,2018-06-30
+Qorvo Inc,QRVO,Semiconductors,21.89,7.96,6.38,9.26,3,2018-09-30
+Qorvo Inc,QRVO,Semiconductors,22.9,8.2,8.39,8.19,2,2018-12-31
+Qorvo Inc,QRVO,Semiconductors,25.85,9.28,9.03,8.7,3,2019-03-31
+Qorvo Inc,QRVO,Semiconductors,24.54,7.51,7.93,6.97,2,2019-06-30
+Qorvo Inc,QRVO,Semiconductors,22.77,7.18,7.78,5.45,1,2019-09-30
+Qorvo Inc,QRVO,Semiconductors,24.04,9.15,6.87,8.8,2,2019-12-31
+Qorvo Inc,QRVO,Semiconductors,23.32,7.97,8.65,6.88,2,2020-03-31
+Qorvo Inc,QRVO,Semiconductors,26.9,9.46,6.46,9.91,2,2020-06-30
+Qorvo Inc,QRVO,Semiconductors,22.53,8.22,6.66,8.91,1,2020-09-30
+Qorvo Inc,QRVO,Semiconductors,21.68,8.62,9.21,6.51,1,2020-12-31
+Qorvo Inc,QRVO,Semiconductors,25.41,6.63,8.43,5.68,1,2021-03-31
+Qorvo Inc,QRVO,Semiconductors,24.56,7.84,8.53,7.55,1,2021-06-30
+Qorvo Inc,QRVO,Semiconductors,21.39,6.36,8.82,8.62,3,2021-09-30
+Qorvo Inc,QRVO,Semiconductors,22.13,8.96,8.83,6.14,1,2021-12-31
+Qorvo Inc,QRVO,Semiconductors,19.67,7.28,6.98,8.93,1,2022-03-31
+Qorvo Inc,QRVO,Semiconductors,22.91,8.31,6.33,9.47,3,2022-06-30
+Qorvo Inc,QRVO,Semiconductors,22.15,5.55,8.28,7.04,1,2022-09-30
+Qorvo Inc,QRVO,Semiconductors,25.5,6.9,8.07,6.81,2,2022-12-31
+Qorvo Inc,QRVO,Semiconductors,19.82,5.36,6.52,6.3,2,2023-03-31
+Qorvo Inc,QRVO,Semiconductors,23.54,7.57,8.09,9.69,3,2023-06-30
+Qorvo Inc,QRVO,Semiconductors,21.93,7.12,6.98,7.77,2,2023-09-30
+Qorvo Inc,QRVO,Semiconductors,27.73,9.07,7.99,6.16,2,2023-12-31
+Qorvo Inc,QRVO,Semiconductors,27.38,8.84,7.59,8.33,2,2024-03-31
+Qorvo Inc,QRVO,Semiconductors,25.17,8.16,7.5,8.65,1,2024-06-30
+Qorvo Inc,QRVO,Semiconductors,23.27,9.44,6.46,9.06,2,2024-09-30
+Qorvo Inc,QRVO,Semiconductors,24.71,9.46,6.8,5.81,1,2024-12-31
+Qorvo Inc,QRVO,Semiconductors,25.71,8.17,8.09,8.35,3,2025-03-31
+Qorvo Inc,QRVO,Semiconductors,27.8,7.62,8.86,8.15,3,2025-06-30
+Qorvo Inc,QRVO,Semiconductors,20.13,7.93,7.41,9.3,1,2025-09-30
+Qorvo Inc,QRVO,Semiconductors,25.38,6.62,7.54,6.55,1,2025-12-31
+Qorvo Inc,QRVO,Semiconductors,25.12,7.73,9.02,9.32,3,2026-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,23.17,7.78,9.45,7.45,3,2016-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,24.55,6.65,9.4,6.48,1,2016-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,28.35,8.74,6.27,6.61,1,2016-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,28.59,7.93,6.24,9.12,3,2017-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,21.24,6.9,6.49,8.47,2,2017-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,22.92,7.12,8.49,6.5,1,2017-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,26.58,9.54,7.38,8.0,3,2017-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,24.41,6.2,9.5,7.81,3,2018-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,25.48,8.34,8.08,7.89,3,2018-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,27.75,7.74,6.75,6.17,2,2018-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,22.84,7.13,5.93,9.18,1,2018-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,24.54,5.96,9.62,9.71,2,2019-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,27.0,9.15,8.35,9.14,3,2019-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,23.96,8.13,7.48,6.54,3,2019-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,26.49,6.48,5.98,8.1,3,2019-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,26.7,8.68,8.26,6.58,3,2020-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,22.23,6.43,6.0,6.22,1,2020-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,24.59,6.62,8.09,6.28,1,2020-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,29.12,6.22,10.0,7.26,1,2020-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,25.0,6.3,6.06,7.34,2,2021-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,26.59,7.75,7.28,8.54,1,2021-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,27.4,9.69,6.12,8.98,1,2021-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,21.13,9.12,6.6,7.06,1,2021-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,27.75,7.21,9.27,7.98,3,2022-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,18.93,7.66,5.28,7.38,1,2022-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,25.31,6.85,6.95,8.12,1,2022-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,22.76,5.56,7.13,6.27,2,2022-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,24.38,5.64,5.39,7.3,2,2023-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,28.7,8.81,7.99,7.44,1,2023-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,24.56,8.06,6.03,8.39,1,2023-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,22.3,8.67,9.89,10.19,3,2023-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,25.05,7.04,8.51,6.85,2,2024-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,28.97,9.19,9.06,9.26,2,2024-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,17.9,6.37,7.92,5.86,1,2024-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,22.86,6.6,8.3,6.18,1,2024-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,21.48,7.14,8.84,7.66,3,2025-03-31
+Entegris Inc,ENTG,Semiconductor Equipment,25.91,8.03,9.48,8.4,2,2025-06-30
+Entegris Inc,ENTG,Semiconductor Equipment,28.0,8.18,7.31,6.74,2,2025-09-30
+Entegris Inc,ENTG,Semiconductor Equipment,18.81,7.45,7.4,6.72,2,2025-12-31
+Entegris Inc,ENTG,Semiconductor Equipment,26.95,9.23,6.76,7.3,2,2026-03-31
