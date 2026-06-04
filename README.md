@@ -123,3 +123,6 @@ git clone https://github.com/YOUR_USERNAME/DataNexus_BD.git
 | DevOps Engineer | Infrastructure & deployment |
 
 ---
+
+![DataNexus Architecture](./WorkFlow_Arch_.png)
+
