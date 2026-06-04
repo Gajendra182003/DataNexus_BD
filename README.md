@@ -124,5 +124,8 @@ git clone https://github.com/YOUR_USERNAME/DataNexus_BD.git
 
 ---
 
-![DataNexus Architecture](./WorkFlow_Arch_.png)
+![DataNexus Architecture](./WorkFlow_Arch..png)
+
+
+
 
